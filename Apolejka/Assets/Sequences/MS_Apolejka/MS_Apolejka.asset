@@ -25,8 +25,9 @@ MonoBehaviour:
       data:
         m_Data:
         - rid: 2426248504787337217
+        - rid: -2
         m_AvailableIndices:
-          rid: -2
+          rid: 2426248642941419521
     - rid: 2426248504787337217
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
@@ -40,3 +41,5 @@ MonoBehaviour:
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 0}
+    - rid: 2426248642941419521
+      type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}
