@@ -53,7 +53,7 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: -1
+    m_BlendOutDuration: 0.5166666666666666
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -95,15 +95,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: P2_FadeIn
   - m_Version: 1
-    m_Start: 3.0166666666666666
+    m_Start: 2.5
     m_ClipIn: 0
     m_Asset: {fileID: 4513040774066410365}
-    m_Duration: 7.016666666666667
+    m_Duration: 17.499999999998998
     m_TimeScale: 1
     m_ParentTrack: {fileID: -5909787604570609622}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: -1
+    m_BlendInDuration: 0.5166666666666666
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -190,7 +190,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -196653899657523566}
-    m_Duration: 10.033333333333333
+    m_Duration: 20
     m_TimeScale: 1
     m_ParentTrack: {fileID: -4360225482441151958}
     m_EaseInDuration: 0
@@ -334,7 +334,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -362023101720710745}
-    m_Duration: 10.033333333333333
+    m_Duration: 20
     m_TimeScale: 1
     m_ParentTrack: {fileID: 2990260772401625406}
     m_EaseInDuration: 0
