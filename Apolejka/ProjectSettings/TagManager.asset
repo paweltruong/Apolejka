@@ -47,3 +47,6 @@ TagManager:
   - name: Page2
     uniqueID: 3000128303
     locked: 0
+  - name: Page2Inside
+    uniqueID: 2566892641
+    locked: 0
